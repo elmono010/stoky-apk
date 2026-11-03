@@ -1,6 +1,6 @@
 {
-  "versionCode": 30,
-  "versionName": "3.0",
-  "apkUrl": "download/stokia-3.0.apk",
-  "notes": "Versión estable con Laboratorio de producto, cartera Mastershop y mejoras de seguridad."
+  "versionCode": 31,
+  "versionName": "3.1",
+  "apkUrl": "download/stokia-3.1.apk",
+  "notes": "Seguridad: código ofuscado con R8, APK 57% más liviano (2,4 MB), red restringida a HTTPS y componentes exportados reducidos."
 }
