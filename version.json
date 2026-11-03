@@ -1,6 +1,6 @@
 {
-  "versionCode": 99,
-  "versionName": "3.1",
+  "versionCode": 30,
+  "versionName": "3.0",
   "apkUrl": "download/stokia-3.0.apk",
-  "notes": "Prueba del actualizador: esta ventana debe aparecer sola al abrir la app."
+  "notes": "Versión estable con Laboratorio de producto, cartera Mastershop y mejoras de seguridad."
 }
