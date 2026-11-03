@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "3.3",
-  "apkUrl": "download/stokia-3.3.apk",
-  "notes": "Política de privacidad publicada y accesible desde la app. Guía y script de pines TLS."
+  "versionCode": 34,
+  "versionName": "3.4",
+  "apkUrl": "download/stokia-3.4.apk",
+  "notes": "Catálogo con ViewModel: la base de datos ya no bloquea la interfaz y el estado sobrevive al girar la pantalla. Probado en Android 17."
 }
