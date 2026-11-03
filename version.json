@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "3.5",
-  "apkUrl": "download/stokia-3.5.apk",
-  "notes": "Planes Free y Premium, cuota de IA validada en servidor, limpieza automática de datos y mejoras de seguridad."
+  "versionCode": 36,
+  "versionName": "3.6",
+  "apkUrl": "download/stokia-3.6.apk",
+  "notes": "Modo vinculado Premium: las listas compartidas se actualizan solas. Cuota de IA validada en servidor y lista de pendientes cerrada."
 }
