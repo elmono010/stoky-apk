@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "3.2",
-  "apkUrl": "download/stokia-3.2.apk",
-  "notes": "Android 15 (targetSdk 35), reporte de fallos en el teléfono, 111 errores silenciosos ahora registrados y APK de 2,4 MB."
+  "versionCode": 33,
+  "versionName": "3.3",
+  "apkUrl": "download/stokia-3.3.apk",
+  "notes": "Política de privacidad publicada y accesible desde la app. Guía y script de pines TLS."
 }
