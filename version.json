@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "3.7",
-  "apkUrl": "download/stokia-3.7.apk",
-  "notes": "Inteligencia artificial incluida sin configurar llaves, notificaciones push de catalogos compartidos, reglas de precio por tienda, planea Premium con consumo visible y Mastershop solo para Colombia, Ecuador y Peru."
+  "versionCode": 38,
+  "versionName": "3.8",
+  "apkUrl": "download/stokia-3.8.apk",
+  "notes": "Correccion de notificaciones push (configuracion de Firebase conservada), IA incluida sin llaves, reglas de precio por tienda, plan sin limites y Mastershop solo para Colombia, Ecuador y Peru."
 }
