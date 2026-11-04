@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "3.8",
-  "apkUrl": "download/stokia-3.8.apk",
-  "notes": "Correccion de notificaciones push (configuracion de Firebase conservada), IA incluida sin llaves, reglas de precio por tienda, plan sin limites y Mastershop solo para Colombia, Ecuador y Peru."
+  "versionCode": 39,
+  "versionName": "3.9",
+  "apkUrl": "download/stokia-3.9.apk",
+  "notes": "Notificaciones push funcionando: permiso de notificaciones, canal creado al inicio y registro del token corregido. Incluye IA sin llaves, reglas de precio por tienda, plan sin limites y Mastershop para Colombia, Ecuador y Peru."
 }
