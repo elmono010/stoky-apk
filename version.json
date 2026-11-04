@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "3.9",
-  "apkUrl": "download/stokia-3.9.apk",
-  "notes": "Notificaciones push funcionando: permiso de notificaciones, canal creado al inicio y registro del token corregido. Incluye IA sin llaves, reglas de precio por tienda, plan sin limites y Mastershop para Colombia, Ecuador y Peru."
+  "versionCode": 40,
+  "versionName": "4.0",
+  "apkUrl": "download/stokia-4.0.apk",
+  "notes": "Avisos de stock y precio sin repetir: producto agotado, cambio de precio y producto reactivado, cada uno una sola vez. Incluye push verificado, IA sin llaves, reglas de precio por tienda, plan sin limites y Mastershop para Colombia, Ecuador y Peru."
 }
